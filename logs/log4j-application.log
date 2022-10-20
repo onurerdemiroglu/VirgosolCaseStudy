@@ -1,0 +1,22 @@
+2022-10-21 00:59:06 INFO  Log4j:8 - Test is Starting...
+2022-10-21 00:59:10 INFO  Log4j:17 - Navigated to 'https://www.amazon.com.tr/'
+2022-10-21 00:59:10 INFO  Log4j:17 - Successfully navigated to the url
+2022-10-21 00:59:10 INFO  Log4j:17 - Cookies accepted
+2022-10-21 00:59:12 INFO  Log4j:17 - Login successfully completed
+2022-10-21 00:59:14 INFO  Log4j:17 - Login process is verified
+2022-10-21 00:59:16 INFO  Log4j:17 - 'Virgosol List' named list created
+2022-10-21 00:59:17 INFO  Log4j:17 - 'Bilgisayarlar' is selected from search dropdown
+2022-10-21 00:59:17 INFO  Log4j:17 - 'Bilgisayarlar' selection is verified
+2022-10-21 00:59:18 INFO  Log4j:17 - Search was done for 'msi'
+2022-10-21 00:59:18 INFO  Log4j:17 - Verified that the search is listed for the 'msi'
+2022-10-21 00:59:18 INFO  Log4j:17 - Passed into the number '2' page
+2022-10-21 00:59:19 INFO  Log4j:17 - Verified that number '2' page is selected
+2022-10-21 00:59:22 INFO  Log4j:17 - Number '2' product has been added to the 'Virgosol List'
+2022-10-21 00:59:23 INFO  Log4j:17 - Verified that product has been added to the list
+2022-10-21 00:59:25 INFO  Log4j:17 - Navigated to the 'Virgosol List' page
+2022-10-21 00:59:25 INFO  Log4j:17 - Verified that 'Virgosol List' page is opened
+2022-10-21 00:59:26 INFO  Log4j:17 - Product removed from the 'Virgosol List'
+2022-10-21 00:59:26 INFO  Log4j:17 - Verified that product removed from the list
+2022-10-21 00:59:27 INFO  Log4j:17 - Logout process was done
+2022-10-21 00:59:27 INFO  Log4j:17 - Verified that successfully logout
+2022-10-21 00:59:27 INFO  Log4j:12 - Test is Ending...
