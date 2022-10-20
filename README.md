@@ -67,8 +67,9 @@ Feature: Amazon UI Test
       | email                         | password    | listName      | category      | searchKeyword | pageNumber | productNumber |
       | virgosolcasestudy@outlook.com | virgosol123 | Virgosol List | Bilgisayarlar | msi           | 2          | 2             |
 ```
+## 📹 Çalışması
 
-
+https://user-images.githubusercontent.com/35347777/197071449-85526346-5fd7-4e69-bf17-f5e1d4b897dc.mp4
 
 ## ![log4j](https://user-images.githubusercontent.com/35347777/187072045-4d157e04-a467-47cd-8b07-875b9b2b7887.png) Log4j 
  
